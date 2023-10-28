@@ -6,5 +6,9 @@ TEAM MEMBERS :
        TEAM MEMBER 3 : SANTHOSH M (NMID : 1A257865295727EAED04D6279138B702)
 
 PROJECT TITLE : 
+       
+       Creating a sponsored Post For Instagram
 
-        Creating An Sponsored Post For Instagram
+
+CATEGORY: DIGITAL MARKETING
+PROJECT LINK: 
