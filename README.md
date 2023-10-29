@@ -13,8 +13,13 @@ PROJECT TITLE :
 
 CATEGORY: DIGITAL MARKETING
 
-PROJECT LINK: 
+PROJECT LINK: https://drive.google.com/drive/folders/1Z80jw6AhognkeekUw_JIqUN1b9KhTqoW?usp=sharing
 
 PROJECT DESCRIPTION:
+
+       Our motto is to create a line of environmentally friendly shoes using recycled materials. Design and produce 10 unique shoe designs for men and women.
+       Our team includes experienced designers, eco-material experts, and skilled artisans.EcoFoot will feature stylish designs made from 100% recycled materials, 
+       promoting sustainability in fashion. Overcoming cost limitations and finding sustainable material sources. Each pair of EcoFoot shoes will reduce waste and 
+       environmental impact. 
 
       
